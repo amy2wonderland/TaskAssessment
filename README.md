@@ -1,7 +1,8 @@
 # Website
-serverless-website-CloudFront-S3-CodePipeline-
+serverless-website----
+GithubRepo-->CodePipeline-->S3-->CloudFront
 
-
+3 Templates
 #Run template as nested stacks by:
 upload rds.yaml and cognito.yaml to S3 bucket and Ref in parent template
 
