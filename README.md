@@ -12,4 +12,4 @@ upload rds.yaml and cognito.yaml to S3 bucket and Ref in parent template
 
 Cognito.yaml--> If the website is internal and not public
 
-rds.yaml--> Create sepearte RDS SQL inst
+rds.yaml--> Create sepearte RDS SQL instancefor backend tier
