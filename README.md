@@ -6,7 +6,7 @@ secure serverless-website----
 
 
 #Run template as nested stacks by:
-upload rds.yaml and cognito.yaml to S3 bucket and Ref in parent template
+upload rds.yaml and cognito.yaml to S3 bucket and Ref in parent template (This is optional)
 
 #Cretate branch in GitHub and push to CI/CD through Webhook- Version Control=====
 
